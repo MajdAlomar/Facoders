@@ -1,5 +1,6 @@
 ##Female Arabs coders
-##مبادرة نساء منرمجات
+
+##مبادرة نساء مبرمجات
 
 ###name: Majd Alomar
 
