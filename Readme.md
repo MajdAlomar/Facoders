@@ -2,7 +2,7 @@
 
 ## مبادرة نساء مبرمجات
 
-###name: Majd Alomar
+### name: Majd Alomar
 
 * _week1:_
 
