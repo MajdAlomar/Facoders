@@ -11,3 +11,7 @@
 * _week2:_
 
     creating markdown file
+
+* _week3:_
+  
+    introduction to python:number and string
