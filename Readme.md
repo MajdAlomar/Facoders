@@ -14,4 +14,4 @@
 
 * _week3:_
   
-    introduction to python:number and string1
+    introduction to python:number and string
